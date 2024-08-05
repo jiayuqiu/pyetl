@@ -1,0 +1,35 @@
+# backports.zoneinfo==0.2.1
+certifi
+charset-normalizer
+clickhouse-driver
+clickhouse-sqlalchemy
+dill
+greenlet
+idna
+importlib-metadata
+importlib-resources
+numpy==1.19.5
+pandarallel
+pandas
+psutil
+py4j
+pyarrow==0.14.0
+PyMySQL==1.0.2
+pyspark==2.4.8
+python-dateutil
+pytz
+# pytz-deprecation-shim==0.1.0.post0
+requests
+six
+SQLAlchemy==1.4.37
+# typing_extensions==4.1.1
+tzdata
+tzlocal
+urllib3
+xlrd
+zipp
+kafka-python
+openpyxl
+jieba
+scikit-learn
+gensim
